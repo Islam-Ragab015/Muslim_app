@@ -1,11 +1,11 @@
-Islamic App
+# Islamic App
 🕌 The Islamic App is a comprehensive mobile application designed to provide users with a complete Islamic experience, offering a wide range of features, resources, and tools to enhance their spiritual journey and knowledge of Islam.
 
 
 📱 Built using Flutter, this cross-platform app ensures a seamless experience across different devices, allowing users to access Islamic content anytime, anywhere.
 
 
-🌙 Key Features:
+## Key Features:
 
 - Quran: Access the complete Quran with translations in multiple languages, enabling users to read, study, and understand the holy scripture.
 
@@ -23,8 +23,12 @@ Islamic App
   
 - Community and Social Features: Engage with a community of fellow Muslims, participate in discussions, share content, and connect with like-minded individuals.
 
+
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
   
-⚙️ Technologies and Tools:
+## Technologies and Tools:
 
 Flutter: The framework used for developing cross-platform mobile applications.
 
@@ -34,6 +38,7 @@ API Integrations: Integration with Islamic APIs and services to retrieve accurat
 
 Responsive Design: Ensuring the app's layout and components adapt to different screen sizes and orientations.
 
+##
 
 🌟 The Islamic App aims to provide users with a complete Islamic toolkit, fostering a deeper connection with Islam, knowledge enrichment, and spiritual growth.
 
