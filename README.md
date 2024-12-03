@@ -44,12 +44,6 @@ Your support helps me to keep improving and maintaining this project. Thank you!
 
 Here are some screenshots showcasing the key features of the **Islamic App**:
 
-### First Hadith Page  
-![First Hadith](assets/screenshots/firstHadith.png)
-
-### Sibaha Page  
-![Sibaha](assets/screenshots/sibaha.png)
-
 ### Quran Page  
 ![Quran Page](assets/screenshots/quranPage.png)
 
@@ -58,6 +52,12 @@ Here are some screenshots showcasing the key features of the **Islamic App**:
 
 ### Hadith Page  
 ![Hadith Page](assets/screenshots/hadithPage.png)
+
+### First Hadith Page  
+![First Hadith](assets/screenshots/firstHadith.png)
+
+### Sibaha Page  
+![Sibaha](assets/screenshots/sibaha.png)
 
 ### Radio Page  
 ![Radio](assets/screenshots/raido.png)
